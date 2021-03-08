@@ -1,0 +1,14 @@
+{
+    "name": "@vue_modules/vue-marquee-straight",
+    "version": "1.0.4",
+    "description": "Simple straight to endless loop marquee",
+    "author": "tienmi",
+    "private": false,
+    "license": "MIT",
+    "main": "marqueeBar.common.js",
+    "keywords": [
+        "vue",
+        "marquee",
+        "infinity straight"
+    ]
+}
